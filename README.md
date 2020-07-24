@@ -1,2 +1,2 @@
-# slave-1
+# SLAVE_000001
 Studio: STTA

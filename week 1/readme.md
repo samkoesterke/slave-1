@@ -6,3 +6,4 @@ I've started looking at Processing, trying to get an understanding of the what a
 I'm quite pleased with myself because I played around with processing and made a little abstract artwork. It's made me realise how underneath all the design software we use, there is code (obviously) it's just something I don't pay much attention to. <br/>
 
 
+![](d51aa88639cb484d82f0c683b6b9d977.jpg)

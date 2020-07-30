@@ -23,6 +23,6 @@ This class activity was a good excerise to get us to undertstand the basic conce
 
 ![](d51aa88639cb484d82f0c683b6b9d977.jpg) <br/> 
 
-Since I'm very interested in type design and typography I made a type version of the class activity. This is obviously a super rudimentary example but a good place to start. I may try to develop this further but I'm still at square one.
+Since I'm very interested in type design and typography I made a type version of the class activity. The parametres I used were: width, crossbar height, roundness, and stroke weight. This is obviously a super rudimentary example but a good place to start. I may try to develop this further but I'm still at square one.
 
-![]() 
+![](parametric_A_test_1.jpg) 

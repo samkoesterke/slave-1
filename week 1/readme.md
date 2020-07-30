@@ -21,4 +21,8 @@ I know it ain't much but it's honest work; I played around with processing and m
 
 This class activity was a good excerise to get us to undertstand the basic concept behind parametric design. The scale and complexity of these works could be so much larger if using a few lines of code. The element of randomness in this got me thinking about 'visual noise'. You could map a 50/50 black or white thing to each pixle on a window, and have it change every x amount of seconds.......
 
-![](d51aa88639cb484d82f0c683b6b9d977.jpg)
+![](d51aa88639cb484d82f0c683b6b9d977.jpg) <br/> 
+
+Since I'm very interested in type design and typography I made a type version of the class activity. This is obviously a super rudimentary example but a good place to start. I may try to develop this further but I'm still at square one.
+
+![]() 

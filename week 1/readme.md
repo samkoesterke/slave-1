@@ -1,7 +1,7 @@
 # WEEK_01
 ## Thoughts & inspirations 
 
-I've started looking at Processing, trying to get an understanding of the what and how. I've looked a bunch of designers which use code and parametric/generative ideas in their work. One of the most interesting is 'Conway's Game of Life'. I love now something that has such simple starting parametres can be used to create things with such complexity. <br/>
+I've started looking at Processing, trying to get an understanding of the what and how. I've looked a bunch of designers which use code and parametric/generative ideas in their work. One of the most interesting is 'Conway's Game of Life'. I love how something that has such simple starting parametres can be used to create things with such complexity. Artificial life would definitely be something worth researching further. <br/>
 
 ![](Conways_game_of_life_breeder.png) <br/>
 *image sourced from wikipedia.* <br/>

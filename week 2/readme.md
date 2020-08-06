@@ -20,3 +20,8 @@ Here are some Processing experiments, one which I found quite visually striking 
 
 ## 12 hour challenge
 
+Because I'm quite stubborn I think I can say with some certaintly that the final outcome for this studio will be revolving around typography in some way. For the first 12 hour challenge I wanted to have a creative outcome, I chose to make a poster with a variety of parameters — ones which I might normally stray away from - like a typeface such as Comic Sans. Perhaps it's time we reclaimed this font and changed it's identity. I think the final outcome is great because it's so unusual. It's interesting that despite all of the parameters chosen by chance, they are still filtered through my mind, and I interpret them in my own way. A computer would be much more rigid with it's outcomes, and so I would love to find a way of coding similar parameters to see how that turns out.
+
+![](20200731_100951.jpg) <br/>
+
+![](finalposter.jpg)   <br/>

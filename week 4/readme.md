@@ -25,7 +25,23 @@ I've done some research into variable typeface design and I'm very interested in
 
 His work explores the concept of physical memory and how *"The assemblage of data in a computer’s physical memory serves as a record of human activity and agency, however abstracted and fragmented. By analyzing and understanding the data in a computer’s physical memory, it is possible, in some respects, to reconstruct a profile of the individual operating the machine".* 
 
-##Processing experiments
+## Processing experiments
+There are multiple steps which will go into making this digital tapestry a reality. I've started watching specific tutorials for things which I think may help me achieve this. 
+
+![](random_walk_1.png)
+
+![](thread_trial.png)
+
+![](image_load.png)
+Here I learned how to load images into your sketch
+
+![](HSB_zigzag.png)
+
+![](HSB_wavey.png)
+These were some interesting experiments. I was also able to create a pulsing/flashing rainbow version of the loaded image...might come in handy
+
+
+
 
 
 

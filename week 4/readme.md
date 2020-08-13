@@ -43,9 +43,9 @@ These were some interesting experiments. I was also able to create a pulsing/fla
 ## 12 hour challenge 
 Another iteration of the same 'poster by chance' system.
 
-![]()
+![](week4_dice.png)
 
-![]()
+![](12.jpg)
 
 
 

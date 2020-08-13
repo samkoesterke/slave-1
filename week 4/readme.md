@@ -40,7 +40,12 @@ Here I learned how to load images into your sketch
 ![](HSB_wavey.png)
 These were some interesting experiments. I was also able to create a pulsing/flashing rainbow version of the loaded image...might come in handy
 
+## 12 hour challenge 
+Another iteration of the same 'poster by chance' system.
 
+![]()
+
+![]()
 
 
 

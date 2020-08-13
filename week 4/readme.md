@@ -23,7 +23,10 @@ I've begun thinking about which concepts I could potentially explore for my prop
 
 I've done some research into variable typeface design and I'm very interested in it, but I'm leaning towards the idea of the automated tapestry weaver. I think the act of weaving is an ancient and distinctly human activity; making a machine weave something raises many interesting questions. Through my research I have come across the work of [Phillip Stearns](https://phillipstearns.wordpress.com/fragmented-memory/). He's an artist who has completed a series of large scale woven tapestries using visualised binary data sourced from his hard drives. This work is a different take to what I have planned, since the tapestry would consist of things that are procedurally generated, and they would be digitally woven.
 
-His work explores the concept of physical memory and how "The assemblage of data in a computer’s physical memory serves as a record of human activity and agency, however abstracted and fragmented".
+His work explores the concept of physical memory and how *"The assemblage of data in a computer’s physical memory serves as a record of human activity and agency, however abstracted and fragmented. By analyzing and understanding the data in a computer’s physical memory, it is possible, in some respects, to reconstruct a profile of the individual operating the machine".* 
+
+##Processing experiments
+
 
 
 

@@ -28,7 +28,7 @@ The idea is to create an algorithm which procedurally generates tapestries withi
 
 **Summary & Concept:**
 To look at the concept of objects as artefacts and to see how the future can inform, reinterpret, and re-shape the past. To challenge the idea of free-will and pre-determinism, and to find out whether artistic creativity is strictly reserved for human beings. <br/>
-
+ <br/>
 ## Research Basis: Why?
 
 **Igniting Ideas:**

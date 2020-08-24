@@ -21,7 +21,6 @@
 — Visual artefacts present in compressed images. ‘Deep frying’ an image <br/>
 — Lost in translation comes to mind, as the more we filter digital images the more information they lose. What you’re left with can be highly distorted and glitchy. I want to potentially combine these digitally decayed images with an effect which mimics the real life decay of fabric and other natural materials <br/>
  <br/>
-  <br/>
 ## The idea: What?
 
 **What is the overall idea?**
@@ -59,6 +58,12 @@ The parameters will be random allowing for an endless amount of outcomes. This c
 
 **Inputs & Outputs:** Inputs include a number of random elements which will generate the tapestry, they will  <br/>
 
+## MSCW
+
+**Must:** It must generate an image which uses a set amount of parameters and in some way resembles a rug or tapestry however experimental in nature <br/>
+**Should:** It should be able to procedurally weave itself from a starting point to an end point. And it should be able to create a vast number of different outcomes; shapes, colours etc <br/>
+**Could:** Could potentially include an element to the system that creates little abstract images, Could potentially incorporate elements of procedural decay into the work <br/>
+**Would:** Be able to incorporate all features into one, where it begins with an empty loom, it weaves a random design, and then once finished after a period of time, the design slowly starts to decay, erasing the image  <br/>
 
  
 

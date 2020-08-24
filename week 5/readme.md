@@ -61,9 +61,13 @@ The parameters will be random allowing for an endless amount of outcomes. This c
 ## MSCW
 
 **Must:** It must generate an image which uses a set amount of parameters and in some way resembles a rug or tapestry however experimental in nature <br/>
+
 **Should:** It should be able to procedurally weave itself from a starting point to an end point. And it should be able to create a vast number of different outcomes; shapes, colours etc <br/>
+
 **Could:** Could potentially include an element to the system that creates little abstract images, Could potentially incorporate elements of procedural decay into the work <br/>
+
 **Would:** Be able to incorporate all features into one, where it begins with an empty loom, it weaves a random design, and then once finished after a period of time, the design slowly starts to decay, erasing the image  <br/>
+
 
  
 

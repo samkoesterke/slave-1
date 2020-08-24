@@ -42,7 +42,7 @@ The work would challenge the idea of who or what can be ‘the maker’ or ‘th
 
 **Why?**
 Fabric is like an analogue pixel matrix. Tapestry is an ancient artform; the tools we use to create it may have changed, but the act of time consumingly weaving something into being has remained the same. This work would challenge the idea of who or what can be ‘the maker’ or ‘the artist’. And in doing so it might alter the way we look at tapestries from the past. <br/> 
-
+ <br/>
 ## The System: How?
 
 **What will the system need to do?** 
@@ -57,7 +57,7 @@ The parameters will be random allowing for an endless amount of outcomes. This c
 **What are the parameters based on? & comments of the conceptual basis?** The parameters are based on randomness.  <br/>
 
 **Inputs & Outputs:** Inputs include a number of random elements which will generate the tapestry, they will  <br/>
-
+ <br/>
 ## MSCW
 
 **Must:** It must generate an image which uses a set amount of parameters and in some way resembles a rug or tapestry however experimental in nature <br/>

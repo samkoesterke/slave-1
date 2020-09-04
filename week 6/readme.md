@@ -3,4 +3,4 @@
 
 ## Tapestry progress
 
-![](thread_progress) <br/>
+![](thread_progress.png) <br/>

@@ -1,1 +1,1 @@
-![](vacation.jpeg) 
+![](vacation.png) 

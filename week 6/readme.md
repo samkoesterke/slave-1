@@ -14,7 +14,7 @@ It's now a matter of implementing more features, hopefully I can add a new one b
 
 I am also able to have the threads weave an image of my choosing. I'm hoping to implement some form of API so that I can get images from the web.
 
-![](thread_progress.png) <br/>
+![](rug_image.png) <br/>
 
 As for now though, i'm taking a little break.
 ![](vacation.png) <br/>

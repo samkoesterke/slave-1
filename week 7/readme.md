@@ -1,1 +1,1 @@
-![](paper%20prototype.gif) 
+![](paper-prototype.gif) 

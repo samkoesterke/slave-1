@@ -5,5 +5,13 @@ Here is an extremely simple paper version of what my project may look like. All 
 
 ![](paper-prototype.gif) 
 
-## Rug inspiration
+## Psuedo code for daily task
+INPUT(){ thirst; <br/>
+IF (parched; chug +1); <br/>
+ELSE IF (a bit thirsty; sip + 1); <br/>
+ELSE IF (quenched; burp); <br/>
+END IF (moisturised, in your lane, unbothered); <br/>
+OUTPUT() pee; <br/>
+} <br/>
+
 

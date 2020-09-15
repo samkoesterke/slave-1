@@ -1,1 +1,1 @@
-![](vacation.png) 
+![](paper%20prototype.gif) 

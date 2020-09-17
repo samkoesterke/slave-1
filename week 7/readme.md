@@ -34,7 +34,7 @@ OUTPUT() pee; <br/>
 } <br/>
 
 ## Rug inspiration
-text <br/>
+Through my research I've come across a range of 'Afghanistan war rugs' which depict imagery from the soviet invasion in the 1980's, weaponry, as well as depictions of 9/11. This is interesting to me because it made me think of the purpose of these rugs, and ultimately the purpose of art in any form —atleast in a traditional sense; to depict things of significance. The fact that a culture with a deep history of weaving has used traditional means of image making to translate the happenings of the current time, highlights the significance of the medium itself. These rugs all use patterns and shapes which speak of their historical origins, yet the imagery is entirely modern. I am thinking of ways in which I can tap into this concept and perhaps use it for my digital rugs.   <br/>
 ![](war1.jpg) <br/>
 ![](war2.jpg) <br/>
 ![](war3.jpg) <br/>

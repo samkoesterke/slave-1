@@ -9,4 +9,14 @@ I stubbled upon this technique by chance many years ago; typing random numbers a
 ![](insig2.png) <br/>
 ![](insig3.png) <br/>
 
-The plan is to set a 4-6 character google search parameter (e.g.  _ _ _ _ _ heads or tails will determine if the character will be a letter or a number, then depending on the outcome I will use 10 or 26 sided dice). Once this 5 character word has been generated I will use it in a google search and manually scrape 'images of insignificance'. Then once I've sourced these images I will use the same method with which I made the '12 hour challenge' posters. The main difference being that they will be made in a symmetrical way to mimic the visuals of existing rugs and tapestries. I know this all sounds quite rambly but it will make sense....i hope.
+The plan is to set a 4-6 character google search parameter (e.g.  _ _ _ _ _ heads or tails will determine if the character will be a letter or a number, then depending on the outcome I will use 10 or 26 sided dice). Once this 5 character word has been generated I will use it in a google search and manually scrape 'images of insignificance'. Then once I've sourced these images I will use the same method with which I made the '12 hour challenge' posters. The main difference being that they will be made in a symmetrical way to mimic the visuals of existing rugs and tapestries. In these part-analogue part-digital parametric artworks I may also play around with typography and other design techniques.
+
+## The main questions which I keep thinking about are:
+- What makes something significant?
+- What makes an artefact significant?
+- Is it the age of the object?
+- Is it the cultural connections it has/makes?
+- What is an artefact, and can anything be an artefact?
+- Does the act of 'choosing' make something significant?
+- Is all significance relative?
+- Does human interference make something more significant?

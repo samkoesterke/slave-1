@@ -1,7 +1,7 @@
 # WEEK 08
 
 ## Project development: 'Images of insignificance'
-I've been researching API's including Google search api, Flickr, Instagram etc. The initial idea that I had was to have a random image scraped from one of these services which is then woven into my tapestry. I feel that with this concept there is a disconnect  Instead I will try to incorperate more analogue parametrics.  
+I've been researching API's including Google search api, Flickr, Instagram etc. The initial idea was that I had was to have a random image scraped from one of these services which is then woven into my tapestry. I feel that with this concept there is a disconnect  Instead I will try to incorperate more analogue parametrics.  
 
 I stubbled upon this technique by chance many years ago; typing random numbers and letters into Google image search gives you some very strange results — images without any context. This style of searching could be seen as an obscure form of digital archeology, unearthing and rediscovereing old images. To me these pictures lack significance, yet the fact that they are 'digital artefacts' means they do in a way bare some significance. In many ways real life artefacts are just everyday objects.... Here are some examples:
 

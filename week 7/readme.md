@@ -42,4 +42,4 @@ Through my research I've come across a range of 'Afghanistan war rugs' which dep
 
 ## Class coding exercise
 ![](ghost_type1.png) <br/>
-![](ghost_type1.png) <br/>
+![](ghost_type2.png) <br/>

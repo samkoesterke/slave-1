@@ -8,7 +8,11 @@ These are just some images I sourced. I think many of the search results are str
  <br/>
 ![](sourced_pics.png) <br/> 
 ## Rug design evolution
-Here I've started experimenting with different rug designs. At this stage I was still quite attached to the idea of a rug being a rectangle. I think seeing as this project is largely about looking at rugs in a modern context, and if I'm already questioning what kind of imagery appears on them, why should I not also question their shape. Traditionally speaking rugs were this shape as this shape provided strength and structure.
+Here I've started experimenting with different rug designs. At this stage I was still quite attached to the idea of a rug being a rectangle. I think seeing as this project is largely about looking at rugs in a modern context, and if I'm already questioning what kind of imagery appears on them, why should I not also question their shape. Traditionally speaking rugs were this shape as this shape provided strength and structure.  <br/>
+ <br/>
 ![](helmet_rug.png) <br/> 
 ![](half_technocrat.png) <br/> 
 ![](full_technocrat.png) <br/> 
+This example is a work in progress using the 'Coldera' typeface by Ollie Schwan. I want these tapestries to work as potential wall hangings; more artworks than floor coverings. Generally speaking floor covering rugs and tapestries are quite heavily focused on repitition and dense pattern. In many ways I'm treating these tapestries almost as woven posters; I want to continue using typography.   <br/>
+
+Another aspect of these designs are that they have decay on them from the very beginning. This is mainly due to time limitations etc. 

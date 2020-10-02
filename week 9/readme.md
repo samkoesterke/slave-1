@@ -15,4 +15,4 @@ Here I've started experimenting with different rug designs. At this stage I was 
 ![](full_technocrat.png) <br/> 
 This example is a work in progress using the 'Coldera' typeface by Ollie Schwan. I want these tapestries to work as potential wall hangings; more artworks than floor coverings. Generally speaking floor covering rugs and tapestries are quite heavily focused on repitition and dense pattern. In many ways I'm treating these tapestries almost as woven posters; I want to continue using typography.   <br/>
 
-Another aspect of these designs are that they have decay on them from the very beginning. This is mainly due to time limitations etc. 
+Another aspect of these designs are that they have decay on them from the very beginning. This is mainly due to time limitations etc. This is only a PROTOTYPE therefore many of the aspects will remain in this 'mock up' stage. I've trimmed away using an API as well as the procedural decay feature.

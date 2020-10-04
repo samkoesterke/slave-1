@@ -1,2 +1,1 @@
-## IF BY ARTEFACT YOU MEAN, A DUSTY OBJECT? — SAM KOESTERKE
-![]()
+![](1.jpg)

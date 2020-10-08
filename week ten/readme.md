@@ -12,6 +12,3 @@ rug1 <br/>
 
 rug2 <br/> 
 ![](rug2.png) <br/>
-
-rug3 <br/> 
-![](rug3.png) <br/>

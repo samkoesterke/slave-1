@@ -4,6 +4,8 @@ I've continued creating these tapestries. It feels like I'm making collages some
  <br/>
  <br/>
 ![](type_specimens2.jpg) <br/>
+ <br/>
+ <br/>
 rug3 <br/> 
 ![](rug3.png) <br/>
 rug4 <br/> 

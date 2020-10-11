@@ -7,5 +7,6 @@ I've been taking steps to finalize the project, making sure it has a relative le
 
 ## Final tapestry design
 This is the final tapestry design I've decided to make for this project. It uses the least number of sourced images but instead focuses on the Gummy typeface by Edie Johnston (a fellow student).<br/>
+<br/>
 rug5
 ![](rug5.png)<br/>

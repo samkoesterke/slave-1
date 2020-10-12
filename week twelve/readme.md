@@ -6,7 +6,7 @@ I've been taking steps to finalize the project, making sure it has a relative le
 ![](even_smaller.png)<br/>
 
 ## Final tapestry design
-This is the final tapestry design I've decided to make for this project. It uses the least number of sourced images but instead focuses on the Gummy typeface by Edie Johnston (a fellow student).<br/>
+This is the final tapestry design I've decided to make for this project. It uses the least number of sourced images but instead focuses on the Gummy typeface by Edie Johnston (a fellow student). All in all I'm very pleased with the outcome of this project, it was a very unexpected direction but it allowed for a deep level of visual experimentation. <br/>
 <br/>
 rug5
 ![](rug5.png)<br/>

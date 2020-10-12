@@ -35,10 +35,10 @@ function setup() {
 
   //Thanks Karen for the text tip
   fill(0);
-  textSize(windowWidth/26, windowHeight/26);
+  textSize(windowWidth/29, windowHeight/29);
   text('IF BY ARTEFACT YOU MEAN, A DUSTY OBJECT?', 7, 50);
   textAlign(LEFT);
-  textSize(windowWidth/126, windowHeight/126);
+  textSize(windowWidth/135, windowHeight/135);
   text('What gives an image significance & what makes an artefact an artefact?\n\n\nThese tapestries consist of a range of pictures sourced from Google Images using a randomized 4 digit code. They are simultaneously meaningless & meaningful, they have outlived their purpose & usefulness, they are long forgotten; they are digital artefacts uncovered by chance but repurposed by design.\n\nOnce the tapestry has finished weaving, take a screenshot, draw it, trace it, destroy it, bury it under the algorithm, push it back out into the ether. A circular economy of insignificant images. There are 6 tapestries in total; refresh your browser to load a new one.\n\nMade using typefaces by:\n-Lena Weber: (AT)lenaweber404\n-Ollie Schwan: (AT)ollieschwandesign\n-Edie Johnston: (AT)plasticine9\n\nBy Sam Koesterke: (AT)___samlinford\nSlave 2 The Algorithm—2020\n\n\n\n\n\nPress ENTER to begin\n\n\n\n\n\n\n\n\n\n\n', 20, 70, 240, 700);
 
   // this is the 'for loop' which initializes walker threads

@@ -35,11 +35,11 @@ function setup() {
 
   //Thanks Karen for the text tip
   fill(0);
-  textSize(windowWidth/25, windowHeight/25);
+  textSize(windowWidth/26, windowHeight/26);
   text('IF BY ARTEFACT YOU MEAN, A DUSTY OBJECT?', 7, 50);
   textAlign(LEFT);
-  textSize(windowWidth/125, windowHeight/125);
-  text('What gives an image significance & what makes an artefact an artefact?\n\n\nThese tapestries consist of a range of pictures sourced from Google Images using a randomized 4 digit code. They are simultaneously meaningless & meaningful, they have outlived their purpose & usefulness, they are long forgotten; they are digital artefacts uncovered by chance but repurposed by design.\n\nOnce the tapestry has finished weaving, take a screenshot, draw it, trace it, destroy it, bury it under the algorithm, push it back out into the ether. A circular economy of insignificant images. There are 6 tapestries in total; refresh your browser to load a new one.\n\nMade using typefaces by:\n-Lena Weber: (AT)lenaweber404\n-Ollie Schwan: (AT)ollieschwandesign\n-Edie Johnston: (AT)plasticine9\n\n\n\nPress ENTER to begin\n\n\n\n\n\n\n\n\n\n\n\n\nBy Sam Koesterke: (AT)___samlinford\nSlave 2 The Algorithm—2020', 20, 70, 240, 700);
+  textSize(windowWidth/126, windowHeight/126);
+  text('What gives an image significance & what makes an artefact an artefact?\n\n\nThese tapestries consist of a range of pictures sourced from Google Images using a randomized 4 digit code. They are simultaneously meaningless & meaningful, they have outlived their purpose & usefulness, they are long forgotten; they are digital artefacts uncovered by chance but repurposed by design.\n\nOnce the tapestry has finished weaving, take a screenshot, draw it, trace it, destroy it, bury it under the algorithm, push it back out into the ether. A circular economy of insignificant images. There are 6 tapestries in total; refresh your browser to load a new one.\n\nMade using typefaces by:\n-Lena Weber: (AT)lenaweber404\n-Ollie Schwan: (AT)ollieschwandesign\n-Edie Johnston: (AT)plasticine9\n\nBy Sam Koesterke: (AT)___samlinford\nSlave 2 The Algorithm—2020\n\n\n\n\n\nPress ENTER to begin\n\n\n\n\n\n\n\n\n\n\n', 20, 70, 240, 700);
 
   // this is the 'for loop' which initializes walker threads
   for (let i = 0; i < walkerCount; i++) {
@@ -50,8 +50,8 @@ function setup() {
   //Border boxes
   noFill();
   stroke(0);
-  rect(270, 60, windowWidth-280, windowHeight-70);
-  rect(10, 60, 260, windowHeight-70);
+  rect(270, 60, windowWidth-300, windowHeight-90);
+  rect(10, 60, 260, windowHeight-90);
 
 
   //Thanks to Karen for the help
@@ -85,7 +85,7 @@ function keyPressed() {
     mode = 1;
     fill(200);
     noStroke();
-    rect(18, 60.5, 261, windowHeight-71);
+    rect(18, 60.5, 261, windowHeight-91);
   }
 }
 

@@ -10,7 +10,7 @@ Some experiments using floats and the random function. Here I've let a bunch of 
 
 ![](Screen%20Shot%202020-08-06%20at%202.05.15%20pm.png) <br/>
 
-Here I stretched the ellipses which did away with the gradient and instead made it look more like the back of some embroidered fabric. I think the idea of digital fabric. Perhaps something to look into.
+Here I stretched the ellipses which did away with the gradient and instead made it look more like the back of some embroidered fabric. I think the idea of digital fabric. Perhaps something to look into!
 
 
 
